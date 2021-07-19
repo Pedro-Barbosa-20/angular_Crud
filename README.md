@@ -2,18 +2,20 @@
 
 Start Project
 
-----> npm install
+  - First start with backend
 
-----> cd backend
+    ----> npm install
 
-----> npm install -g json-server
+    ----> cd backend
 
-----> npm start
+    ----> npm install -g json-server
 
------ New Terminal -----
+    ----> npm start
 
-----> cd frontend
+  - Next with frontend
 
-----> npm install --save-dev @angular-devkit/build-angular
+    ----> cd frontend
 
-----> ng serve
+    ----> npm install --save-dev @angular-devkit/build-angular
+
+    ----> ng serve
