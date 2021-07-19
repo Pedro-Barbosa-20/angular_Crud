@@ -2,9 +2,9 @@
 
 Start Project
 
-  - First start with backend
+  - npm install
 
-    ----> npm install
+  - First start with backend
 
     ----> cd backend
 
